@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.plan {
+    text-align: center;
+}
+
+.plan p {
+    color: red;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.plan h1 {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    text-transform: capitalize;
+}
+
+.package {
+    /* display: flex; */
+    text-decoration: none;
+    max-width: 90%;
+    /* display: flex; */
+}
+
+/* .free_package {} */
+
+
+.gg p {
+    text-indent: 30px;
+}
+
+.header iframe {
+    display: grid;
+    margin: auto;
+    height: 500px;
+    width: 900px;
+}
+
+.w3l-bottom p {
+    background-color: white;
+    text-align: center;
+    color: gray;
+    padding: 0 0 50px 0;
+    font-size: 19px;
+    line-height: 25px;
+}
+
+.w3l-bottom {
+    text-align: center;
+}
+
+.w3l-bottom h1 {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    text-transform: capitalize;
+}
+
+.subscribe-wthree-field input {
+    /* padding: 0px 20px; */
+    height: 60px;
+    width: 550px;
+    /* flex-basis: 70%; */
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+}
+
+.subscribe-wthree-field button {
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: green;
+}
+
+.subscribe-wthree {
+    padding: 0 0 75px 0;
+}
+
+.feedback {
+    text-align: center;
+}
+
+.w3l-bottom h1 {
+    padding: 0 0 15px 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    line-height: 28px;
+    text-decoration: none;
+    color: gray;
+    background-color: black;
+}
+
+.contact ul {
+    padding: 0 0 15px 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contact h3 {
+    font-weight: 900;
+    color: #ffff;
+
+}
+
+.contact3 {
+
+    display: flex;
+}
+
+.contact2 {
+    text-decoration: none;
+    list-style: none;
+}
+
+.contact4 {
+    display: flex;
+}
+
+.rights {
+    text-align: center;
+    color: gray;
+    background-color: black;
+}
